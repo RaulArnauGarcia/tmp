@@ -1,0 +1,56 @@
+/* Modo Noche */
+
+.nightBody {
+  background-color: #222222;
+}
+
+.nightTitle2 {
+  color: #014ba3;
+}
+
+.nightTitle {
+  color: #dbdbdb;
+}
+
+.nightButtonMain {
+  background-color: #d9d9d9;
+  border-color: black;
+  color: black;
+}
+.nightButtonMain:hover {
+  background-color: #bababa;
+}
+
+.labelNight {
+  color: #d9d9d9;
+}
+
+/* pag 2 */
+
+.moreOptionsNight {
+  color: #004aad;
+}
+
+.locationNight {
+  color: #565656;
+  font-family: "Poppins", Arial;
+  background-color: transparent;
+  border-color: #d9d9d9;
+}
+
+.tempNight {
+  color: #dadada;
+}
+
+.maxMinNight {
+  color: #dadada;
+}
+
+.windNight {
+  background-color: #d9d9d9;
+  color: #565656;
+}
+
+.moreHouersNight {
+  color: #dbdbdb;
+}
